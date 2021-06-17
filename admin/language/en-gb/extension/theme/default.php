@@ -3,7 +3,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']                    = 'Default Store Theme';
+$_['heading_title']                    = 'Wfmshop Store Theme';
 
 // Text
 $_['text_extension']                   = 'Extensions';
